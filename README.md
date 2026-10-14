@@ -4,13 +4,13 @@
 
 [![tests](https://github.com/yonkoo11/ajo-circle/actions/workflows/tests.yml/badge.svg)](https://github.com/yonkoo11/ajo-circle/actions/workflows/tests.yml)
 ![testnet](https://img.shields.io/badge/Monad%20testnet-2--member%20circle%20settled-121212)
-[![live](https://img.shields.io/badge/live-ajo--circle--beta.vercel.app-3fb950)](https://ajo-circle-beta.vercel.app)
+[![live](https://img.shields.io/badge/live-ajo--circle--beta.vercel.app-3fb950)](https://ajo-circles.vercel.app)
 
 ### Join a savings circle with Face ID. No wallet, no treasurer, one passkey.
 
 **Ajo is an ajo/esusu rotating savings circle on Monad. A contract holds the pot, members sign in with a passkey through Mera, and every circle gets its own key.**
 
-**[ Live ↗ ](https://ajo-circle-beta.vercel.app)** · **[ Verify it yourself ↗ ](#verify-it-yourself-in-60-seconds)**
+**[ Live ↗ ](https://ajo-circles.vercel.app)** · **[ Verify it yourself ↗ ](#verify-it-yourself-in-60-seconds)**
 
 Built for the Monad Metropolis hackathon (Track 02, Consumer Products & Payments).
 
